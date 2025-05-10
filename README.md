@@ -1,7 +1,7 @@
 <h1 align="center">
     <a href="https://github.com/santa70916112">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+SANTA....;Nice+to+meet+you!&center=true&size=30">
-    <img src="src=https://github.com/santa70916112/santa70916112/main/api.gif">
+    <img src="https://github.com/santa70916112/santa70916112/blob/main/api.gif">
     </a>
 </h1>
 
