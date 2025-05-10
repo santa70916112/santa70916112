@@ -90,6 +90,6 @@
     </table>
 ---
 <h3 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+SANTA....;Nice+to+meet+you!&center=true&size=30">
+<img src="src=https://github.com/santa70916112/santa70916112/api.gif">
 SANTA
 </h3>
